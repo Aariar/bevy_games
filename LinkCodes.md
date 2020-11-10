@@ -1,5 +1,6 @@
 ## リンク集(未整理/詳細未確認)
 - [bevy_baduk](https://github.com/mcpar-land/bevy_baduk)：囲碁
+- [bevy_2048](https://github.com/MeirKlemp/bevy_2048)：2048
 - [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris)
 - [bevy_pong](https://github.com/SuperiorJT/bevy_pong)
 - [bevy-base](https://github.com/will-hart/bevy-base)
