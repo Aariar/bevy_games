@@ -4,5 +4,5 @@ AariaToysは[Aaria](https://www.aaria.net/)が提供する[Bevy](https://bevyeng
 多くの要素をテキストファイルで簡単に改変することで、様々な遊び方を追求することができます。  
 また、オープンソースのため、コードそのものを変更することもできます。  
 
-## ゲーム一覧
+### ゲーム一覧
 - (第1作)[Snake](https://github.com/Aariar/snake)：シンプルなヘビゲーム
