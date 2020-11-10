@@ -7,3 +7,4 @@
 - [Tutorials](https://github.com/Aariar/bevy_games/blob/main/Tutorials.md)：コード解説など
 - [TestGames](https://github.com/Aariar/bevy_games/blob/main/TestGames.md)：(掲載時点で)バグはあるがプレイは可能なゲームの一覧
 - [SampleCodes](https://github.com/Aariar/bevy_games/blob/main/SampleCodes.md)：その他様々なコード集
+- [LinkCodes](https://github.com/Aariar/bevy_games/blob/main/LinkCodes.md)：未整理/詳細未確認段階のリンク集
