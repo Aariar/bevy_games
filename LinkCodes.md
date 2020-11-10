@@ -3,3 +3,7 @@
 - [bevy_pong](https://github.com/SuperiorJT/bevy_pong)
 - [bevy-base](https://github.com/will-hart/bevy-base)
 - [bevris](https://github.com/sim82/bevris)
+- [labyrinth-game](https://github.com/insrcd/labyrinth-game)
+- [Per Spatium](https://gitlab.com/BottledByte/per-spatium)
+- [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban)
+- [bevy-showcase](https://github.com/Bobox214/bevy-showcase)
