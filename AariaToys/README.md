@@ -5,4 +5,4 @@ AariaToysは[Aaria](https://www.aaria.net/)が提供する[Bevy](https://bevyeng
 また、オープンソースのため、コードそのものを変更することもできます。
 
 ## ゲーム一覧
-- 1. [Snake](https://github.com/Aariar/snake)：シンプルなヘビゲーム
+1. [Snake](https://github.com/Aariar/snake)：シンプルなヘビゲーム
