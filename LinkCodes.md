@@ -4,6 +4,7 @@
 - [bevy_2048](https://github.com/MeirKlemp/bevy_2048)：2048
 - [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris)
 - [bevy_pong](https://github.com/SuperiorJT/bevy_pong)
+- [crystal_planes](https://github.com/sim82/crystal_planes)
 - [bevy-base](https://github.com/will-hart/bevy-base)
 - [bevris](https://github.com/sim82/bevris)
 - [labyrinth-game](https://github.com/insrcd/labyrinth-game)
