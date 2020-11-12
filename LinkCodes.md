@@ -13,3 +13,4 @@
 - [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban)
 - [bevy-showcase](https://github.com/Bobox214/bevy-showcase)
 - [Bevy RTS Prototype](https://github.com/guimcaballero/rts_prototype)
+- [minkraft](https://github.com/superdump/minkraft)
