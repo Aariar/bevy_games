@@ -6,4 +6,4 @@ AariaToysは[Aaria](https://www.aaria.net/)が提供する[Bevy](https://bevyeng
 
 ### ゲーム一覧
 - (第1作)[Snake](https://github.com/Aariar/snake)：シンプルなヘビゲーム
-- (第2作)[Snake2](https://github.com/Aariar/snake)：操作感に大きな変更を加えたヘビゲーム第2弾
+- (第2作)[Snake2](https://github.com/Aariar/Snake2)：操作感に大きな変更を加えたヘビゲーム第2弾
