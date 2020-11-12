@@ -6,13 +6,13 @@ AariaToysは[Aaria](https://www.aaria.net/)が提供する[Bevy](https://bevyeng
 
 ### ダウンロード方法
  各ゲームページの「↓ Code」よりゲームを「Download ZIP」し解凍するか  
- URLをコピーしgit(インストールが必要)より
- git clone URL(例:https://github.com/Aariar/xxxx.git)
- で落とします。
+ URLをコピーしgit(インストールが必要)より  
+ git clone URL(例:https://github.com/Aariar/xxxx.git)  
+ で落とします。  
 
 ### 実行方法
- Rustコードでの配布のため、[Rustのインストール](https://www.rust-lang.org/ja/tools/install)が必要になります。
- その上で「cargo run --release」にてコンパイル&実行してください。
+ Rustコードでの配布のため、[Rustのインストール](https://www.rust-lang.org/ja/tools/install)が必要になります。  
+ その上で「cargo run --release」にてコンパイル&実行してください。  
 
 ### ゲーム一覧
 - (第1作)[Snake](https://github.com/Aariar/snake)：シンプルなヘビゲーム
