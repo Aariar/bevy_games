@@ -2,6 +2,7 @@
 - [bevy_baduk](https://github.com/mcpar-land/bevy_baduk)：囲碁
 - [simple-calc](https://github.com/PravinKumar95/simple-calc)：電卓
 - [bevy_2048](https://github.com/MeirKlemp/bevy_2048)：2048
+- [bevy_chess](https://github.com/guimcaballero/bevy_chess)：チェス
 - [bevy-tetris](https://github.com/8bit-pudding/bevy-tetris)
 - [bevy_pong](https://github.com/SuperiorJT/bevy_pong)
 - [crystal_planes](https://github.com/sim82/crystal_planes)
