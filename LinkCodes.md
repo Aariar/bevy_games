@@ -11,3 +11,4 @@
 - [Per Spatium](https://gitlab.com/BottledByte/per-spatium)
 - [bevy_sokoban](https://github.com/ropewalker/bevy_sokoban)
 - [bevy-showcase](https://github.com/Bobox214/bevy-showcase)
+- [Bevy RTS Prototype](https://github.com/guimcaballero/rts_prototype)
