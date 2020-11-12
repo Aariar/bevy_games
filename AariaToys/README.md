@@ -6,8 +6,8 @@ AariaToysは[Aaria](https://www.aaria.net/)が提供する[Bevy](https://bevyeng
 
 ### ダウンロード方法
  各ゲームページの「↓ Code」よりゲームを「Download ZIP」し解凍するか  
- URL(https://github.com/Aariar/xxxx.git)をコピーしgit(インストールが必要)より
- git clone URL(https://github.com/Aariar/xxxx.git)
+ URLをコピーしgit(インストールが必要)より
+ git clone URL(例:https://github.com/Aariar/xxxx.git)
  で落とします。
 
 ### 実行方法
